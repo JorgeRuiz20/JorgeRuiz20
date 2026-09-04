@@ -1,322 +1,326 @@
 <div align="center">
 
-# 👋 Hola, soy Jorge Ruiz
+👋 Hola, soy Jorge Ruiz
 
-### 💻 Desarrollador de Software
+💻 Desarrollador de Software
 
-**Backend Developer · Java + Spring Boot**  
-**Android Developer · Kotlin + Jetpack Compose**
+Backend Developer · Java + Spring Boot
+Android Developer · Kotlin + Jetpack Compose
 
-Construyo APIs REST, servicios backend y aplicaciones Android,
-aplicando buenas prácticas, arquitectura limpia y soluciones orientadas a problemas reales.
+Construyo aplicaciones web, APIs REST y aplicaciones Android,
+con enfoque en código limpio, arquitectura mantenible y soluciones orientadas a problemas reales.
 
 <br>
 
 <a href="https://github.com/JorgeRuiz20">
-<img src="https://img.shields.io/badge/GitHub-JorgeRuiz20-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-JorgeRuiz20-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://jorgeruiz20.github.io/Portafolio/">
-<img src="https://img.shields.io/badge/Portafolio-Visitar-111111?style=for-the-badge&logo=google-chrome">
+  <img src="https://img.shields.io/badge/Portafolio-Visitar-111111?style=for-the-badge&logo=google-chrome">
 </a>
 
 <a href="mailto:jorgeruiztapia0218@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 </div>
 
----
+🚀 Sobre mí
 
-# 🚀 Sobre mí
+Soy Desarrollador de Software enfocado principalmente en Backend con Java + Spring Boot y desarrollo Android con Kotlin.
 
-Soy **Desarrollador de Software** enfocado principalmente en **Backend con Java + Spring Boot** y **desarrollo Android con Kotlin**.
-
-Me interesa construir aplicaciones completas: desde el diseño de la lógica de negocio y las APIs hasta la interfaz, persistencia de datos, testing, Docker y despliegue.
+Me interesa construir aplicaciones completas, trabajando desde la lógica de negocio y las APIs hasta la interfaz, persistencia de datos, integración de servicios y despliegue.
 
 Me gusta trabajar con arquitecturas claras, código mantenible y soluciones que puedan evolucionar con el tiempo.
 
-Actualmente continúo fortaleciendo mis conocimientos en:
+Actualmente enfocado en
 
-- ☕ Java y Spring Boot
-- 🟣 Kotlin y Android
-- 🌐 APIs REST y desarrollo Full Stack
-- 🏗️ Clean Architecture y buenas prácticas
-- 🐳 Docker y despliegue Cloud
-- 🗄️ Bases de datos relacionales y NoSQL
-- 🧪 Testing y calidad de software
-- 🔄 Git, Git Flow y trabajo colaborativo con Scrum
+☕ Java + Spring Boot
 
----
+🟣 Kotlin + Android
 
-# 🛠️ Stack tecnológico
+🌐 APIs REST y desarrollo Full Stack
 
-### Backend
+🏗️ Clean Architecture y buenas prácticas
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,maven" />
-</p>
+🐳 Docker y despliegue
 
-`Java` · `Spring Boot` · `Spring MVC` · `Spring Security` · `REST API`  
-`JPA` · `Hibernate` · `JWT` · `Maven` · `JUnit`
+🗄️ Bases de datos
 
-### Android
+🧪 Testing y calidad de software
+
+🔄 Git y desarrollo colaborativo
+
+🛠️ Tecnologías
+
+☕ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,maven" />
 </p>
 
-`Kotlin` · `Android Studio` · `Jetpack Compose` · `Material 3`  
-`MVVM` · `MVI` · `StateFlow` · `Clean Architecture`  
-`Room` · `Retrofit` · `Hilt` · `Firebase` · `FCM`
+Java · Spring Boot · Spring Security · REST API
+JPA · Hibernate · JWT · Maven · JUnit
 
-### Frontend
+📱 Android
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`  
-`Vite` · `Axios` · `React Router` · `Bootstrap` · `Tailwind`
+Kotlin · Android Studio · Jetpack Compose · Material 3
+MVVM · MVI · StateFlow · Clean Architecture
+Room · Retrofit · Hilt · Firebase · FCM
 
-### Bases de datos
+🌐 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" />
 </p>
 
-`MySQL` · `PostgreSQL` · `SQL Server` · `Oracle`  
-`SQLite` · `Firebase Firestore`
+React · TypeScript · JavaScript · HTML · CSS
+Vite · Axios · React Router
 
-### DevOps & herramientas
+🗄️ Bases de datos
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,sqlite" />
 </p>
 
-`Docker` · `Git` · `GitHub` · `Git Flow` · `Nginx`  
-`Postman` · `Railway` · `Render` · `CI/CD`
+MySQL · PostgreSQL · Firebase · SQLite
 
-### Metodologías y colaboración
+🐳 DevOps & herramientas
 
-`Scrum` · `Agile` · `Jira` · `Bitbucket` · `Confluence`  
-`Pull Requests` · `Branches` · `Code Review`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,postman" />
+</p>
 
----
+Docker · Git · GitHub · Nginx · Postman
 
-# ⭐ Proyectos destacados
+⭐ Proyectos destacados
 
-## 📱 MotoStock
+📱 MotoStock
 
-Aplicación Android para la **gestión de talleres de motocicletas**, inventario, vehículos, servicios y citas.
+Aplicación Android orientada a la gestión de talleres de motocicletas, inventario, vehículos, servicios y citas.
 
-### ¿Qué incluye?
+🔥 Características principales
 
-- 🔐 Autenticación y gestión por roles
-- 🏍️ Gestión de motocicletas
-- 📅 Gestión de citas
-- 🔧 Historial de servicios
-- 📦 Control de inventario
-- 🚨 Alertas de stock
-- 📲 Notificaciones Push mediante Firebase Cloud Messaging
-- ☁️ Sincronización con Firebase Firestore
-- 📡 Persistencia local con Room
-- 🌐 Integración mediante Retrofit
-- 🏗️ Clean Architecture
-- 🔄 MVVM / StateFlow
-- 🧩 Arquitectura modular
-- 🧪 Pruebas unitarias con JUnit y Mockito
+🔐 Autenticación y gestión de roles
 
-**Tecnologías:**  
-`Kotlin` `Android` `Jetpack Compose` `Room` `Firebase` `Firestore` `FCM` `Retrofit` `Hilt`
+📅 Gestión de citas
 
-🔗 **[Ver MotoStock →](https://github.com/JorgeRuiz20/MotoStockv2)**
+🏍️ Registro y seguimiento de motocicletas
 
----
+🔧 Historial de servicios
 
-# 🚗 CarWash
+📦 Control de inventario
 
-Sistema Full Stack para la **gestión y digitalización de un negocio de lavado de vehículos**.
+🚨 Alertas de stock
 
-El proyecto busca centralizar diferentes procesos operativos en una plataforma web conectada a una API REST.
+📲 Notificaciones Push con Firebase Cloud Messaging
 
-### ¿Qué incluye?
+☁️ Firebase Firestore
 
-- 🔐 Autenticación y control de acceso
-- 👥 Gestión de clientes y empleados
-- 🚘 Gestión de vehículos
-- 🧽 Gestión de servicios
-- 📅 Reservas
-- 💰 Caja, pagos y arqueo
-- 📦 Inventario
-- 🎁 Sistema de fidelización
-- 🏷️ Cupones y recompensas
-- 📊 Reportes
-- 📡 Telemetría e integración con IoT
-- 🚨 Alertas operativas
-- 📄 Generación de reportes
-- 🐳 Docker
-- ☁️ Despliegue Cloud
+📡 Persistencia local con Room
 
-**Backend:**  
-`Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL`
+🌐 Comunicación mediante Retrofit
 
-**Frontend:**  
-`React` `Vite` `Axios`
+🏗️ Clean Architecture
 
-🔗 **[Backend →](https://github.com/JorgeRuiz20/BackendCarwash)**  
-🔗 **[Frontend →](https://github.com/JorgeRuiz20/FrontendCarwash)**
+🔄 Patrón MVI
 
----
+🧩 Arquitectura modular
 
-# 🤖 RoboTech
+🎨 Jetpack Compose + Material 3
 
-Plataforma web para la **gestión de una empresa dedicada a productos de robótica**, conectando inventario, clientes, ventas, cotizaciones y pedidos.
+Tecnologías:
+Kotlin Android Jetpack Compose Room Firebase Firestore FCM Retrofit Hilt
 
-### ¿Qué incluye?
+🔗 Ver repositorio →
 
-- 🔐 Autenticación y seguridad
-- 👥 Gestión de usuarios y roles
-- 📦 Gestión de inventario
-- 🧩 Gestión de componentes y kits
-- 👤 Gestión de clientes
-- 💰 Ventas
-- 📋 Cotizaciones
-- 📦 Gestión de pedidos
-- 📊 Seguimiento de información
-- 🧪 Pruebas unitarias
-- 🌐 API REST
-- 🗄️ Persistencia con JPA / Hibernate
+🚗 CarWash
 
-**Backend:**  
-`Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL` `JUnit`
+Sistema Full Stack orientado a la gestión y digitalización de un negocio de lavado de vehículos.
 
-**Frontend:**  
-`React` `Vite` `React Router` `Axios`
+El proyecto integra diferentes procesos operativos en una plataforma web conectada a una API REST.
 
-🔗 **[Backend →](https://github.com/JorgeRuiz20/BackendRobotech)**  
-🔗 **[Frontend →](https://github.com/JorgeRuiz20/FrontendRobotech)**
+🔥 Características principales
 
----
+🔐 Autenticación y control de acceso
 
-# 🚕 RinRed
+👥 Gestión de clientes y empleados
 
-Plataforma web orientada a la **gestión de servicios de transporte y solicitudes de taxi en Cusco**.
+🚘 Gestión de vehículos
 
-### ¿Qué incluye?
+🧽 Gestión de servicios
 
-- 🚖 Solicitud de taxi
-- 👤 Gestión de pasajeros
-- 🚘 Gestión de conductores
-- 📍 Seguimiento de viajes
-- ❌ Cancelación de viajes
-- 📋 Consulta de viajes
-- 👨‍✈️ Información del conductor
-- 🌐 Integración Frontend ↔ API REST
-- 🗄️ MySQL
-- 🐳 Docker
-- ❤️ Health Check
-- ☁️ Configuración para despliegue Cloud
+📅 Reservas
 
-**Backend:**  
-`Java 21` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL`
+💰 Pagos y caja
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `Bootstrap`
+🎁 Sistema de fidelización
 
-🔗 **[Backend →](https://github.com/JorgeRuiz20/BackendRinRed)**  
-🔗 **[Frontend →](https://github.com/JorgeRuiz20/FrontendRinRed)**
+🏷️ Cupones y recompensas
 
----
+📊 Reportes
 
-# 🏗️ Cómo desarrollo mis proyectos
+📡 Telemetría e IoT
 
-```text
-                 💡 PROBLEMA
-                      │
-                      ▼
-              ┌───────────────┐
-              │   DISEÑO      │
-              │   SOLUCIÓN    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   BACKEND     │
-              │ Java + Spring │
-              └───────┬───────┘
-                      │
-                REST API
-                      │
-             ┌────────┴────────┐
-             ▼                 ▼
-       ┌────────────┐    ┌────────────┐
-       │  FRONTEND  │    │  ANDROID   │
-       │ React / JS │    │ Kotlin     │
-       └─────┬──────┘    └─────┬──────┘
-             │                 │
-             └────────┬────────┘
-                      ▼
-              ┌───────────────┐
-              │   DATABASE    │
-              │ MySQL / SQL   │
-              │ Firebase      │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │ Docker / Cloud│
-              └───────────────┘
-```
+🚨 Alertas operativas
 
----
+📄 Generación de reportes
 
-# 📚 Actualmente aprendiendo y mejorando
+🐳 Docker
 
-`Spring Boot` · `Arquitectura de Software` · `Android`  
-`Jetpack Compose` · `Docker` · `APIs REST`  
-`Testing` · `Bases de Datos` · `Cloud` · `CI/CD`
+☁️ Despliegue
 
----
+Backend:
+Java Spring Boot Spring Security JPA Hibernate MySQL
 
-# 📊 GitHub
+Frontend:
+React Vite Axios
 
-<div align="center">
+🔗 Backend →
+🔗 Frontend →
 
-<img src="https://github-readme-stats.vercel.app/api?username=JorgeRuiz20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+🤖 RoboTech
 
-<br><br>
+Plataforma web orientada a la gestión de productos, inventario, clientes, ventas y pedidos de una empresa de robótica.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRuiz20&layout=compact&theme=tokyonight&hide_border=true" />
+🔥 Características principales
 
-</div>
+🔐 Autenticación y seguridad
 
----
+👥 Gestión de usuarios y roles
 
-# 🌐 Encuéntrame
+📦 Gestión de inventario
+
+🧩 Gestión de componentes y kits
+
+👤 Gestión de clientes
+
+💰 Ventas
+
+📋 Cotizaciones
+
+📦 Gestión de pedidos
+
+🌐 API REST
+
+🗄️ Persistencia con JPA / Hibernate
+
+🧪 Pruebas unitarias
+
+Backend:
+Java Spring Boot Spring Security JPA Hibernate MySQL JUnit
+
+Frontend:
+React Vite React Router Axios
+
+🔗 Backend →
+🔗 Frontend →
+
+🚕 RinRed
+
+Plataforma web orientada a la gestión de servicios de transporte y viajes.
+
+🔥 Características principales
+
+🚖 Solicitud de viajes
+
+👤 Gestión de pasajeros
+
+🚘 Gestión de conductores
+
+📍 Seguimiento de viajes
+
+📋 Gestión del servicio
+
+🌐 Integración Frontend ↔ API REST
+
+🗄️ MySQL
+
+🐳 Docker
+
+❤️ Health Check
+
+☁️ Preparación para despliegue
+
+Backend:
+Java 21 Spring Boot Spring Data JPA Hibernate MySQL
+
+Frontend:
+HTML CSS JavaScript Bootstrap
+
+🔗 Backend →
+🔗 Frontend →
+
+🏗️ Mi enfoque de desarrollo
+
+                     💡 PROBLEMA
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │    DISEÑO     │
+                  │   SOLUCIÓN    │
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │    BACKEND    │
+                  │ Java + Spring │
+                  └───────┬───────┘
+                          │
+                       REST API
+                          │
+                ┌─────────┴─────────┐
+                ▼                   ▼
+        ┌──────────────┐    ┌──────────────┐
+        │   FRONTEND   │    │   ANDROID    │
+        │ React / Web  │    │    Kotlin    │
+        └──────┬───────┘    └───────┬──────┘
+               │                    │
+               └─────────┬──────────┘
+                         ▼
+                 ┌───────────────┐
+                 │    DATOS      │
+                 │ MySQL / Firebase
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ Docker / Cloud│
+                 └───────────────┘
+
+📚 Actualmente aprendiendo y mejorando
+
+Spring Boot · Arquitectura de Software · Android · Jetpack Compose
+Docker · APIs REST · Testing · Bases de Datos
+Cloud · CI/CD · Buenas prácticas de desarrollo
+
+🌐 Conecta conmigo
 
 <div align="center">
 
 <a href="https://jorgeruiz20.github.io/Portafolio/">
-<img src="https://img.shields.io/badge/🌐%20Portafolio-Visitar-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌐%20Portafolio-Visitar-111111?style=for-the-badge">
 </a>
 
 <a href="https://github.com/JorgeRuiz20">
-<img src="https://img.shields.io/badge/GitHub-JorgeRuiz20-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-JorgeRuiz20-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="mailto:jorgeruiztapia0218@gmail.com">
-<img src="https://img.shields.io/badge/Email-Escribirme-EA4335?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/✉️%20Correo-Contactarme-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💻 Construyendo software, aprendiendo constantemente y convirtiendo problemas en soluciones.
+💻 Construyendo software, aprendiendo constantemente y convirtiendo problemas en soluciones.
 
-⭐ **Gracias por visitar mi perfil.**
+⭐ Gracias por visitar mi perfil.
 
 </div>
